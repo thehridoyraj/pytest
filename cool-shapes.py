@@ -4,7 +4,7 @@ bgcolor('black')
 speed(0)
 hideturtle()
 for i in range(120):
-    color('pink')
+    color('red')
     circle(i)
     color('blue')
     circle(i*0.8)
